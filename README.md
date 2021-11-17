@@ -1,3 +1,3 @@
-# HSSR (submitted to IJCAI'2021)
+# HSSR
 
-For anonymous review, here, we only share the main code and the configuration file.
+For review, here, we only share the main code and the configuration file.
